@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/GoGreenVerz-React/static/css/main.7a9da31c.css",
-    "main.js": "/GoGreenVerz-React/static/js/main.ae578a74.js",
+    "main.js": "/GoGreenVerz-React/static/js/main.26fe6d65.js",
     "static/media/bowl_cropped.png": "/GoGreenVerz-React/static/media/bowl_cropped.70e9a5ee3dd24a7e2191.png",
     "static/media/image_8-removebg-preview.png": "/GoGreenVerz-React/static/media/image_8-removebg-preview.65a4b5419b1153be24c7.png",
     "static/media/cross_canva.png": "/GoGreenVerz-React/static/media/cross_canva.4a7e08ffef2ba9f85165.png",
     "index.html": "/GoGreenVerz-React/index.html",
     "main.7a9da31c.css.map": "/GoGreenVerz-React/static/css/main.7a9da31c.css.map",
-    "main.ae578a74.js.map": "/GoGreenVerz-React/static/js/main.ae578a74.js.map"
+    "main.26fe6d65.js.map": "/GoGreenVerz-React/static/js/main.26fe6d65.js.map"
   },
   "entrypoints": [
     "static/css/main.7a9da31c.css",
-    "static/js/main.ae578a74.js"
+    "static/js/main.26fe6d65.js"
   ]
 }
